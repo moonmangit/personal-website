@@ -1,6 +1,6 @@
 <template>
   <div class="text-gray-500 h-screen bg-black flex items-center justify-center">
-    New Channel
+    Moonman Personal Website Powered by Firebase
   </div>
 </template>
 
