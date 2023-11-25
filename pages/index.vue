@@ -1,6 +1,6 @@
 <template>
   <div class="text-gray-500 h-screen bg-black flex items-center justify-center">
-    Moonman Personal Website update xx
+    Moonman Personal Website update 3
   </div>
 </template>
 
